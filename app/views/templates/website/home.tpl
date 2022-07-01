@@ -14,7 +14,7 @@
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
                      <div class="slide__content">
                         <h2 class="slide__title">Payments & Financial Technology</h2>
-                        <p class="slide__desc">Where all of us are enabled!</p>
+                        <p class="slide__desc">For Everyone</p>
                         <a href="/about-us" class="btn btn__white mr-30">Learn more</a>
                         <a href="/about-us" class="btn btn__white btn__bordered">Grow with us!</a>
                      </div><!-- /.slide-content -->
@@ -28,8 +28,8 @@
                <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
                      <div class="slide__content">
-                        <h2 class="slide__title">Great Innovations</h2>
-                        <p class="slide__desc">Great Innovations with Novifi</p>
+                        <h2 class="slide__title">Future Proof Innovations</h2>
+                        <p class="slide__desc">Market responsive and scalable innovations for seamless transactions.</p>
                         <a href="/about-us" class="btn btn__white btn__bordered">Learn More</a>
                      </div><!-- /.slide-content -->
                   </div><!-- /.col-xl-9 -->
@@ -43,7 +43,7 @@
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
                      <div class="slide__content">
                         <h2 class="slide__title">Novifi</h2>
-                        <p class="slide__desc">..</p>
+                        <p class="slide__desc">A home to support everyone thrive with sustainable financial technology.</p>
                         <a href="/about-su" class="btn btn__white mr-30">Learn more</a>
                         <a href="/about-us" class="btn btn__white btn__bordered">Grow with us!</a>
                      </div><!-- /.slide-content -->
@@ -120,7 +120,7 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
                <div class="heading">
                   <span class="heading__subtitle">MISSION</span>
-                  <h2 class="heading__title">To open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals. </h2>
+                  <h4 class="heading__title">To open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals. </h4>
                   <p class="heading__desc">
                      We are making financial technology and payments seamless for everyone, in a highly secure environment, and cutting edge, scalable technologies for everyone in the world
                   </p>
