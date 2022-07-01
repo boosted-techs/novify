@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="keywords" content="Novifi"/>
+    <meta name="keywords" content="Novifi, Novifigroup, Novifi group"/>
     <meta name="description" content="NOVIFI Powers your seamless, cutting age financial technologies in a highly secure environment, with every one for everyone."/>
     <link href="/assets/images/logo/logo-white.png" rel="icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow:400,500,600,700%7cRoboto:400,500,700&display=swap">
