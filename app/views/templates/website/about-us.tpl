@@ -77,9 +77,6 @@
                         <div class="about__img">
                             <img src="/assets/images/banners/banner-6.jpg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                        </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
@@ -120,9 +117,6 @@
                         <div class="about__img">
                             <img src="/assets/images/banners/banner-7.jpg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                        </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
             </div><!-- /.row -->

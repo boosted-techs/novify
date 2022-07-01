@@ -111,10 +111,10 @@
                   <div class="about__img">
                      <img src="/assets/images/banners/banner-6.jpg" alt="img" class="img-fluid w-100">
                   </div><!-- /.about__img -->
-                  <div class="cta__box">
-                     <img src="/assets/images/logo/logo-white.png" alt="logo">
-                     <h4 class="cta__box-title">Novifi connects a millions of people everyday through electronic payments</h4>
-                  </div><!-- /.cta__box -->
+{*                  <div class="cta__box">*}
+{*                     <img src="/assets/images/logo/logo-white.png" alt="logo">*}
+{*                     <h4 class="cta__box-title">Novifi connects a millions of people everyday through electronic payments</h4>*}
+{*                  </div><!-- /.cta__box -->*}
                </div><!-- /.about__imgs-wrapper -->
             </div><!-- /.col-lg-6 -->
             <div class="col-sm-12 col-md-12 col-lg-6">
