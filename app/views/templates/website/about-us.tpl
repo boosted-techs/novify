@@ -6,6 +6,13 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
                     <h1 class="pagetitle__heading">About us</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                        </ol>
+                    </nav>
                 </div><!-- /.col-lg-6 -->
             </div><!-- /.row -->
         </div><!-- /.container -->
@@ -13,6 +20,9 @@
     <!-- ==========================
        fancybox layout 1
   =========================== -->
+    <!-- ==========================
+      fancybox layout 1
+ =========================== -->
     <section class="fancybox-layout1 pb-70">
         <div class="container">
             <div class="row">
@@ -24,7 +34,7 @@
                         </div><!-- /.fancybox-icon -->
                         <div class="fancybox__content">
                             <h4 class="fancybox__title">People + Possibilities</h4>
-                            <p class="fancybox__desc">inoteCARD empowers people traditionally excluded from financial systems through addressing the economic inequality.</p>
+                            <p class="fancybox__desc">Re-imagine the world of financial technology with Novifi, together we can bring financial services to a cutting edge, competitive and scalable technologies that are inclusive of the most underserved populations.</p>
                         </div><!-- /.fancybox-content -->
                     </div><!-- /.fancybox-item -->
                 </div><!-- /.col-lg-4 -->
@@ -48,7 +58,7 @@
                         </div><!-- /.fancybox-icon -->
                         <div class="fancybox__content">
                             <h4 class="fancybox__title">Empowering communities</h4>
-                            <p class="fancybox__desc">Undeserved communities are empowered and local economies supported everywhere by inoteCard</p>
+                            <p class="fancybox__desc">NOVIFI Powers your seamless, cutting age financial technologies in a highly secure environment, with every one for everyone.</p>
                         </div><!-- /.fancybox-content -->
                     </div><!-- /.fancybox-item -->
                 </div><!-- /.col-lg-4 -->
@@ -62,28 +72,64 @@
     <section class="about-layout2 pt-0 pb-130">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="col-sm-6 col-md-12 col-lg-4">
                     <div class="about__imgs-wrapper">
                         <div class="about__img">
                             <img src="/assets/images/banners/banner-6.jpg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
                         <div class="cta__box">
                             <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">inoteCard connects a millions of people everyday through electronic payments</h4>
+                            <h4 class="cta__box-title">For everyone</h4>
                         </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
-                <div class="col-sm-12 col-md-12 col-lg-6">
+                <div class="col-sm-12 col-md-12 col-lg-8">
                     <div class="heading">
                         <span class="heading__subtitle">About us</span>
-                        <h2 class="heading__title">A Novifi Product.</h2>
-                        <p class="heading__desc">inote card is a product of Novifi group, a company with a wide experience banking infrastructure development, card management systems and a robust team of engineers to to deliver to you the most seamless, secure and convenient transactions.</p>
+                        <h2 class="heading__title">Mission.</h2>
+                        <p class="heading__desc font-weight-bold">
+                            Our Mission is to open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals.
+                        </p>
+                        <hr/>
+                        <p class="heading__desc">
+                            We are making financial technology and payments seamless for everyone, in a highly secure environment, and cutting edge, scalable technologies for everyone in the world.
+                            Focusing our energies to solutions for financially underserved communities.
+                        </p>
                     </div><!-- /.heading -->
                 </div><!-- /.col-lg-6 -->
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section><!-- /.about layout2 -->
 
+    <!-- ================================
+    about layout 2
+    =============================== -->
+    <section class="about-layout2 pt-0 pb-130">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-12 col-md-12 col-lg-8">
+                    <div class="heading">
+                        <h2 class="heading__title">The Potential.</h2>
+                        <p class="heading__desc font-weight-bold">
+                            Our Financial inclusion solutions bring the world together, in a sustainable humanity civilization of the planet, empowering all the financially marginalized populations into a valuable seamless digital payments space for individual and business growth
+                        </p>
+                        <hr/>
+                    </div><!-- /.heading -->
+                </div><!-- /.col-lg-6 -->
+                <div class="col-sm-6 col-md-12 col-lg-4">
+                    <div class="about__imgs-wrapper">
+                        <div class="about__img">
+                            <img src="/assets/images/banners/banner-7.jpg" alt="img" class="img-fluid w-100">
+                        </div><!-- /.about__img -->
+                        <div class="cta__box">
+                            <img src="/assets/images/logo/logo-white.png" alt="logo">
+                            <h4 class="cta__box-title">For everyone</h4>
+                        </div><!-- /.cta__box -->
+                    </div><!-- /.about__imgs-wrapper -->
+                </div><!-- /.col-lg-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.about layout2 -->
     <!-- ========================
         Team 1
     ========================== -->

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="keywords" content="Novifi"/>
-    <meta name="description" content="Novifi"/>
+    <meta name="description" content="NOVIFI Powers your seamless, cutting age financial technologies in a highly secure environment, with every one for everyone."/>
     <link href="/assets/images/logo/logo-white.png" rel="icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow:400,500,600,700%7cRoboto:400,500,700&display=swap">
     <link rel="stylesheet" href="/assets/css/libraries.css" />
@@ -15,8 +15,8 @@
 
     <meta property="og:title" content="inoteCard">
     <meta property="og:site_name" content="inoteCard">
-    <meta property="og:description" content="Our mission is an innovation scaled for all people. Cardholders seamlessly transacting, businesses at all levels finding value in the service and giving innovators limitless possibilities.">
-    <meta property="og:image" content="https://inotecard.boostedtechs.com/assets/images/backgrounds/slider-1.jpg">
+    <meta property="og:description" content="NOVIFI Powers your seamless, cutting age financial technologies in a highly secure environment, with every one for everyone.">
+    <meta property="og:image" content="https://{$smarty.server.SERVER_NAME}/assets/images/backgrounds/slider-1.jpg">
     <meta property="og:type" content="website">
     <style>
         ::selection, .cta__box, .cart__counter, .btn__primary, .btn__primary:active, .btn__primary:focus, .btn__primary.btn__bordered:before, .btn__primary.btn__bordered:before, .btn__link.btn__primary:after, .testimonial-layout1 .carousel-arrows .owl-nav .owl-next:hover:after, .testimonial-layout1 .carousel-arrows .owl-nav .owl-prev:hover:after, .testimonial-layout2 .carousel-arrows .owl-nav .owl-next:hover:after, .testimonial-layout2 .carousel-arrows .owl-nav .owl-prev:hover:after, .btn__link.btn__secondary:active:before, .btn__link.btn__secondary:focus:before, .btn__link.btn__secondary:hover:before, .navbar .dropdown-menu .nav__item:after, .header-layout2 .action__btn-contact, .hamburger-menu .hamburger__menu-email:before, .cart-popup .cart-item .cart__item-delete:hover, .progress-bar, .video__btn .video__player, .post-item .post__meta-cat, .post-item .post__title:before, .blog-nav a:hover:before, .contact-layout3 .contact-panel, .fancybox-layout5 .fancybox-item:hover .fancybox__icon, .portfolio__nav a:not(.portfolio__nav-all):hover:before, .product__tabs .nav-tabs .nav__link, .cart-table .cart__product-remove:hover, .ui-slider-horizontal .ui-slider-handle, .widget-filter .ui-slider-range, .about-layout3 .about__carousel, .about-layout4 .quote__panel .quote__panel-content, .testimonial-layout1 .carousel-arrows .owl-nav .owl-next:hover:after, .testimonial-layout1 .carousel-arrows .owl-nav .owl-prev:hover:after, .testimonial-layout2 .carousel-arrows .owl-nav .owl-next:hover:after, .testimonial-layout2 .carousel-arrows .owl-nav .owl-prev:hover:after, .testimonial-layout3 .carousel-arrows .owl-nav .owl-next:hover:after, .testimonial-layout3 .carousel-arrows .owl-nav .owl-prev:hover:after, .header-transparent .action__btn-contact:before, .slider .btn__white:not(.btn__bordered):before {
@@ -53,6 +53,9 @@
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
                                 <a href="/about-us" class="nav__item-link page1">About us</a>
+                            </li><!-- /.nav-item -->
+                            <li class="nav__item">
+                                <a href="/what-we-do" class="nav__item-link page3">What we do</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
                                 <a href="/contact-us" class="nav__item-link page2">Contact us</a>
@@ -100,18 +103,18 @@
                                 </nav>
                             </div><!-- /.footer-widget-content -->
                         </div><!-- /.col-xl-2 -->
-                        <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 footer__widget footer__widget-nav">
-                            <h6 class="footer__widget-title">Products</h6>
-                            <div class="footer__widget-content">
-                                <nav>
-                                    <ul class="list-unstyled">
-                                        <li><a href="/my-innotecard"> h</a></li>
-                                        <li><a href="/business-inote-card"> h</a></li>
-                                        <li><a href="/limitless"> h</a> </li>
-                                    </ul>
-                                </nav>
-                            </div><!-- /.footer-widget-content -->
-                        </div><!-- /.col-xl-2 -->
+{*                        <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 footer__widget footer__widget-nav">*}
+{*                            <h6 class="footer__widget-title">Products</h6>*}
+{*                            <div class="footer__widget-content">*}
+{*                                <nav>*}
+{*                                    <ul class="list-unstyled">*}
+{*                                        <li><a href="/my-innotecard"> h</a></li>*}
+{*                                        <li><a href="/business-inote-card"> h</a></li>*}
+{*                                        <li><a href="/limitless"> h</a> </li>*}
+{*                                    </ul>*}
+{*                                </nav>*}
+{*                            </div><!-- /.footer-widget-content -->*}
+{*                        </div><!-- /.col-xl-2 -->*}
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 footer__widget footer__widget-newsletter">
                             <div class="footer__widget-content">
                                 <p>Be the first to know when we roll-out new innovations</p>

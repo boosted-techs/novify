@@ -61,7 +61,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="contact-box d-flex align-items-center">
                         <div class="contact-box__icon">
-                            <img src="assets/images/icons/support.png" alt="icon">
+                            <img src="/assets/images/icons/support.png" alt="icon">
                         </div>
                         <div class="contact-box__content">
                             <h4 class="contact-box__title">Our Support</h4>

@@ -13,6 +13,7 @@ $route['sitemap']                           =               "Home/sitemap";
 $route['subscribe']                         =               "Home/subscribe";
 //$route['blog']                              =               "Home/blog";
 $route['contact-us']                        =               "Home/contact";
+$route['what-we-do']                       =               "Home/services";
 //$route['events']                            =               "Home/events";
 //$route['sermons']                           =               "Home/sermons";
 //$route['shop']                              =               "Home/shop";

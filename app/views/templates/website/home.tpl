@@ -13,7 +13,7 @@
                <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
                      <div class="slide__content">
-                        <h2 class="slide__title">Novifi</h2>
+                        <h2 class="slide__title">Payments & Financial Technology</h2>
                         <p class="slide__desc">Where all of us are enabled!</p>
                         <a href="/about-us" class="btn btn__white mr-30">Learn more</a>
                         <a href="/about-us" class="btn btn__white btn__bordered">Grow with us!</a>
@@ -23,7 +23,7 @@
             </div><!-- /.container -->
          </div><!-- /.slide-item -->
          <div class="slide-item bg-overlay">
-            <div class="bg-img"><img src="assets/images/backgrounds/slider-2.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="/assets/images/backgrounds/slider-2.jpg" alt="slide img"></div>
             <div class="container">
                <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
@@ -68,7 +68,7 @@
                   </div><!-- /.fancybox-icon -->
                   <div class="fancybox__content">
                      <h4 class="fancybox__title">People + Possibilities</h4>
-                     <p class="fancybox__desc">inoteCARD empowers people traditionally excluded from financial systems through addressing the economic inequality.</p>
+                     <p class="fancybox__desc">Re-imagine the world of financial technology with Novifi, together we can bring financial services to a cutting edge, competitive and scalable technologies that are inclusive of the most underserved populations.</p>
                   </div><!-- /.fancybox-content -->
                </div><!-- /.fancybox-item -->
             </div><!-- /.col-lg-4 -->
@@ -92,7 +92,7 @@
                   </div><!-- /.fancybox-icon -->
                   <div class="fancybox__content">
                      <h4 class="fancybox__title">Empowering communities</h4>
-                     <p class="fancybox__desc">Undeserved communities are empowered and local economies supported everywhere by inoteCard</p>
+                     <p class="fancybox__desc">NOVIFI Powers your seamless, cutting age financial technologies in a highly secure environment, with every one for everyone.</p>
                   </div><!-- /.fancybox-content -->
                </div><!-- /.fancybox-item -->
             </div><!-- /.col-lg-4 -->
@@ -120,9 +120,10 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
                <div class="heading">
                   <span class="heading__subtitle">MISSION</span>
-                  <h2 class="heading__title">Our mission is an innovation scaled for all people.</h2>
-                  <p class="heading__desc">Cardholders seamlessly transacting, businesses at all levels finding value in the service and
-                     giving innovators limitless possibilities. </p>
+                  <h2 class="heading__title">To open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals. </h2>
+                  <p class="heading__desc">
+                     We are making financial technology and payments seamless for everyone, in a highly secure environment, and cutting edge, scalable technologies for everyone in the world
+                  </p>
                </div><!-- /.heading -->
                <a href="/about-us" class="btn btn__secondary btn__icon">
                   <span>Learn more!</span>

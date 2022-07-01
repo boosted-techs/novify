@@ -68,4 +68,9 @@ class Home extends Controller
         $this->smarty->display("website/contact-us.tpl");
     }
 
+    function services() {
+        $this->smarty->assign("page", "page3");
+        $this->smarty->display("website/services.tpl");
+    }
+
 }
