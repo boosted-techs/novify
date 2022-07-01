@@ -66,17 +66,22 @@
                 <div class="col-sm-6 col-md-12 col-lg-4">
                     <div class="about__imgs-wrapper">
                         <div class="about__img">
-                            <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
+                           <a href="https://inote-card.com" target="_blank">
+                               <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
+                           </a>
                         </div><!-- /.about__img -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
                     <div class="heading">
                         {*                        <span class="heading__subtitle">About us</span>*}
-                        <h2 class="heading__title">inote Card</h2>
+                        <a href="https://inote-card.com" target="_blank">
+                        <h2 class="heading__title">inoteCard</h2>
+                        </a>
                         <p class="heading__desc">
                             The only network of inclusive payments, responsive to every market needs, to give merchants and cardholders a smart, secure, convenient and highly valuable payments.
                         </p>
+                        <a href="https://inote-card.com" target="_blank" class="btn btn__primary btn__bordered">Visit Website</a>
                     </div><!-- /.heading -->
                 </div><!-- /.col-lg-6 -->
             </div><!-- /.row -->
