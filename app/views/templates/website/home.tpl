@@ -23,7 +23,7 @@
             </div><!-- /.container -->
          </div><!-- /.slide-item -->
          <div class="slide-item bg-overlay">
-            <div class="bg-img"><img src="/assets/images/backgrounds/slider-2.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="/assets/images/backgrounds/slider-12.jpg" alt="slide img"></div>
             <div class="container">
                <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
@@ -37,7 +37,7 @@
             </div><!-- /.container -->
          </div><!-- /.slide-item -->
          <div class="slide-item bg-overlay">
-            <div class="bg-img"><img src="/assets/images/backgrounds/slider-5.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="/assets/images/backgrounds/inote-25.jpg" alt="slide img"></div>
             <div class="container">
                <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-10 col-xl-9">
