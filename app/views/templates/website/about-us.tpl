@@ -79,7 +79,6 @@
                         </div><!-- /.about__img -->
                         <div class="cta__box">
                             <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
                         </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
@@ -123,7 +122,6 @@
                         </div><!-- /.about__img -->
                         <div class="cta__box">
                             <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
                         </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
