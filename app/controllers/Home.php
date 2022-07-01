@@ -20,6 +20,7 @@ class Home extends Controller
     }
 
     function about() {
+        $this->smarty->assign("page", "page1");
         $this->smarty->display("website/about-us.tpl");
     }
 
@@ -60,6 +61,11 @@ class Home extends Controller
 
     function subscribe() {
         $this->redirect($this->server->http_refer);
+    }
+
+    function contact() {
+        $this->smarty->assign("page", "page2");
+        $this->smarty->display("website/contact-us.tpl");
     }
 
 }
