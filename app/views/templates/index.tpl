@@ -139,9 +139,9 @@
                             <div class="footer__copyright">
                                 <nav>
                                     <ul class="footer__copyright-links list-unstyled d-flex flex-wrap justify-content-center mb-0">
-                                        <li><a href="/terms-conditions">Terms & Conditions </a></li>
-                                        <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                        <li><a href="/sitemap">Sitemap</a></li>
+{*                                        <li><a href="/terms-conditions">Terms & Conditions </a></li>*}
+                                        <li><a href="/privacy-policy">Privacy</a></li>
+{*                                        <li><a href="/sitemap">Sitemap</a></li>*}
                                     </ul>
                                 </nav>
                                 <p class="fz-13 mb-0">&copy; Novifi 2022

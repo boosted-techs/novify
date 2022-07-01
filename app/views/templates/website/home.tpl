@@ -120,7 +120,7 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
                <div class="heading">
                   <span class="heading__subtitle">MISSION</span>
-                  <h4 class="heading__title">To open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals. </h4>
+                  <h4 class="">To open up payments and financial technology to everybody, facilitating business processes for growth and financial value to individuals. </h4>
                   <p class="heading__desc">
                      We are making financial technology and payments seamless for everyone, in a highly secure environment, and cutting edge, scalable technologies for everyone in the world
                   </p>
