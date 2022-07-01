@@ -52,7 +52,7 @@
                             <h4 class="contact-box__title">Contact Info</h4>
                             <ul class="contact-box__list list-unstyled mb-0">
                                 <li>Main Email: info@novifigroup.com</li>
-                                <li>Phone: +256</li>
+                                <li>Phone: +(256)752168161</li>
                             </ul>
                         </div>
                     </div><!-- /.contact-box -->

@@ -80,7 +80,7 @@
                   </div><!-- /.fancybox-icon -->
                   <div class="fancybox__content">
                      <h4 class="fancybox__title">Preserving the Environment</h4>
-                     <p class="fancybox__desc">Driving a sustainable commerce as we work towards a most sustainable tomorrow is our focus of commitment</p>
+                     <p class="fancybox__desc">Driving a sustainable commerce as we work towards a most sustainable tomorrow is our focus and commitment</p>
                   </div><!-- /.fancybox-content -->
                </div><!-- /.fancybox-item -->
             </div><!-- /.col-lg-4 -->

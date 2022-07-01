@@ -40,12 +40,8 @@
                 <div class="col-sm-6 col-md-12 col-lg-4">
                     <div class="about__imgs-wrapper">
                         <div class="about__img">
-                            <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
+                            <img src="/assets/images/banners/core-banking.jpeg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
-                        </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
@@ -72,10 +68,6 @@
                         <div class="about__img">
                             <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
-                        </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
@@ -100,12 +92,9 @@
                 <div class="col-sm-6 col-md-12 col-lg-4">
                     <div class="about__imgs-wrapper">
                         <div class="about__img">
-                            <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
+                            <img src="/assets/images/banners/angent-banking.jpeg" style="width:300px; height:300px; object-fit: cover" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
-                        </div><!-- /.cta__box -->
+
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
@@ -132,10 +121,6 @@
                         <div class="about__img">
                             <img src="/assets/images/banners/inote-card.jpg" alt="img" class="img-fluid w-100">
                         </div><!-- /.about__img -->
-                        <div class="cta__box">
-                            <img src="/assets/images/logo/logo-white.png" alt="logo">
-                            <h4 class="cta__box-title">For everyone</h4>
-                        </div><!-- /.cta__box -->
                     </div><!-- /.about__imgs-wrapper -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-8">
